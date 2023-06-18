@@ -4,6 +4,7 @@ Passionate about technology and programming.
 
 <h2 align="center">🌱 I’m currently learning</h2>
 
+- Reading Clean Architecture
 - Improving my knowledge in Angular/rxjs
 - Flutter/Dart
 
