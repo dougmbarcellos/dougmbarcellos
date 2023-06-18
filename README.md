@@ -4,7 +4,7 @@ Passionate about technology and programming.
 
 <h2 align="center">🌱 I’m currently learning</h2>
 
-- Reading Clean Architecture
+- Reading Clean Architecture by Robert C. Martin
 - Improving my knowledge in Angular/rxjs
 - Flutter/Dart
 
