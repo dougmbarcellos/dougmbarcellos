@@ -32,7 +32,7 @@ Passionate about technology and programming.
 
 🖍 Design
 
-<code>![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)</code>
+<code>![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)![My Skills](./gimp-dark.png)</code>
 
 👩‍💻 IDE
 
