@@ -1,8 +1,10 @@
 <h1 align="center">Hello, I'm Douglas Barcellos 👋</h1>
 
+<img align="right" height="180" src="./me.png" alt="My Skills"/>
+
 Passionate about technology and programming.
 
-<h2 align="center">🌱 I’m currently...</h2>
+**🌱 I’m currently:**
 
 - Reading Clean Architecture by Robert C. Martin
 - Improving my knowledge in Angular/rxjs
