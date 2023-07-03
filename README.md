@@ -2,11 +2,11 @@
 
 Passionate about technology and programming.
 
-<h2 align="center">🌱 I’m currently learning</h2>
+<h2 align="center">🌱 I’m currently...</h2>
 
 - Reading Clean Architecture by Robert C. Martin
 - Improving my knowledge in Angular/rxjs
-- Flutter/Dart
+- Learning Flutter/Dart
 
 <h2 align="center">⚡️Stack</h2>
   
