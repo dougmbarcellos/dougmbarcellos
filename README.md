@@ -2,12 +2,12 @@
 
 <img align="right" height="180" src="./me.png" alt="My Skills"/>
 
-Passionate about technology and programming.
+Front-End Engineer passionate about technology and programming.
 
 **🌱 I’m currently:**
 
+- Improving my knowledge in Angular
 - Reading Clean Architecture by Robert C. Martin
-- Improving my knowledge in Angular/rxjs
 - Learning Flutter/Dart
 
 <h2 align="center">⚡️Stack</h2>
