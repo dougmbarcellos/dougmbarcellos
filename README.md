@@ -7,7 +7,7 @@ Front-End Engineer passionate about technology and programming.
 **🌱 I’m currently:**
 
 - Improving my knowledge in Angular
-- In the Clean Code and Cleanr Architecture course by Rodrigo Branas.
+- In the Clean Code and Clean Architecture course by Rodrigo Branas.
 - Reading Clean Architecture by Robert C. Martin
 - Learning Flutter/Dart
 
