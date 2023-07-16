@@ -44,6 +44,3 @@ Front-End Engineer passionate about technology and programming.
 💻 Terminal
 
 <code>![My Skills](https://skillicons.dev/icons?i=bash,powershell&theme=dark)</code>
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=dougmbarcellos&langs_count=5&theme=dark&layout=compact)
-
